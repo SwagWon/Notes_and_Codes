@@ -18,9 +18,9 @@ curl的安装路径在 _Users/wangshijie/_下
 安装完成可以看到提示：*oh my zsh is installed*， 并且Terminal的主题也已经换成了oh my zsh的默认主题“robbyrussel”
 
 <div align=center> <img src="/Z_Shell/zsh_config_Theme/robbyrussel.png" width=50% /> </div>
-<center>
+<div align=center>
 robbyrussel_Zhihu
-</center>
+</div>
 
 ## oh_my_zsh主题切换
 
@@ -34,9 +34,9 @@ ZSH_THEME="avit" #在.zshrc中找到这一行，将“”内写入想要使用�
 ```
 我使用的主题是avit，参考主题如下:
 <div align=center> <img src="/Z_Shell/zsh_config_Theme/avit.png" width=80% /> </div>
-<center>
+<div align=center>
 avit_github
-</center>
+</div>
 
 注：使用agnoster主题要安装并使用Powerline字体，安装命令如下：
 
@@ -96,6 +96,6 @@ function _user_host() {
 
 自定义后的最终样式如下：
 <div align=center> <img src="/Z_Shell/zsh_config_Theme/Customized.png" width=100% /> </div>
-<center>
+<div align=center>
 Final
-</center>
+</div>

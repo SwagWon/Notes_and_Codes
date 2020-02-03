@@ -94,7 +94,8 @@ function _user_host() {
 ```
 利用这个例子可以学习一下shell中的函数设定，条件控制和echo返回等.
 
-自定义后的最终样式如下：
+自定义后的最终样式如下:
+
 <div align=center> <img src="/Z_Shell/zsh_config_Theme/Customized.png" width=100% /> </div>
 <div align=center>
 Final
